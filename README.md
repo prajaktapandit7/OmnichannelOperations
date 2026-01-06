@@ -68,6 +68,8 @@ To standardize calculations and reduce ambiguity, metrics such as **Engagements 
 
 > Representative visualizations included due to client confidentiality.
 
+<img width="2702" height="1598" alt="Group 20" src="https://github.com/user-attachments/assets/b208a829-deb9-4cf6-9ae3-43eb93064434" />
+
 ---
 
 ## Impact & Results
