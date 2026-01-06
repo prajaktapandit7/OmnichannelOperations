@@ -17,6 +17,8 @@ Top Pharmaceutical Company – partnered directly with two Director-level stakeh
 - Large files were difficult to interpret and often caused application crashes.  
 - Pandemic-induced communication methods (emails, remote calls, texts) were **outside the scope** of legacy reports, requiring aggregation from multiple vendors.
 
+<img width="1920" height="934" alt="Group 22" src="https://github.com/user-attachments/assets/0e690bd6-7bba-4c94-b450-5ac4f260e592" />
+
 ---
 
 ## Business Goals
