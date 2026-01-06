@@ -1,4 +1,4 @@
-# Pharma Field Force Analytics Dashboard
+# Omnichannel Operations: Field Force Analytics Dashboard
 
 ## Project Overview
 During the pandemic, traditional face-to-face interactions between pharmaceutical field representatives (reps) and healthcare providers (HCPs) became challenging. The shift toward digital strategies such as emails, texts, and remote calls created a fragmented data landscape, with interactions captured across multiple systems and no single source of truth.  
