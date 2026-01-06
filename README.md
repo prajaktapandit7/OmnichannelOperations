@@ -61,6 +61,7 @@ To standardize calculations and reduce ambiguity, metrics such as **Engagements 
 - Initially used radar charts for engagement split, but users found them overwhelming.  
 - Pivoted to **simple bar charts** with color coding and text for storytelling to reduce cognitive load.  
 
+
 <img width="4204" height="1523" alt="image 486" src="https://github.com/user-attachments/assets/611f645f-0409-4368-826f-21f69b4a0355" />
 
 
